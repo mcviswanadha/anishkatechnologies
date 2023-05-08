@@ -1,0 +1,191 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "Our resources are thinkers and doers. We combine strategy and execution to help organizations accelerate growth and realize a brighter future. We turn complex technology solutions into a practical and actionable way forward. Then we help deliver them globally. A culture of innovation lies at our very core. You can see it in our people. We live and breathe change every day because we believe in doing whatever it takes to help organizations accelerate growth by connecting them to the right technology. And delivering it around the world.",
+    "Why": [],
+    "Why2": []
+  },
+  "Gallery": [
+    {
+      "title": "Cloud",
+      "desc": "Rise above the complexities of cloud to transform your business — from strategy through implementation and",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Automation & Orchestration",
+      "desc": "Learn about automated infrastructure, platforms and operations. ",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Digital",
+      "desc": "Learn about application development, data analytics and AI, digital strategy and Internet of Things (IoT).",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "DevOps",
+      "desc": "Combining people, processes and technology to enable the continuous delivery of value to end users. ",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Enterprise Service Management",
+      "desc": "Unify the end-user experience, automate business processes and maintain governance through integrated applications and workflows. ",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Infrastructure Automation",
+      "desc": "Reduce operational costs, lower the potential for human error and deliver services at scale that support your organization's success. ",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "CLOUD COMPUTING BUSINESS SOLUTIONS",
+      "desc": "Intelligent IT’s cloud services offer New York City SMBs to enterprises a robust set of computing solutions, while taking into account their unique challenges. Every craft requires the right tools. Carpenters need hammers. Writers need pen and paper. Business professionals need the right technology. Few of the recent advances in business technology stand out in comparison. Companies now have the option to tap into the best tools available from an IT company, even on a limited budget. Those tools can be customized to match your needs exactly. There are so many options out there, the challenge is finding the perfect set of tools for your company. That’s where Intelligent IT shines.",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Internet of Things (IoT)",
+      "desc": "Harness the transformative power of IoT by leveraging actionable insight from the integration of devices and sensors with software and analytics to drive strategic business outcomes.",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Software Development",
+      "desc": "Transform your business with innovative products, platforms and user experiences that differentiate and drive customer value.",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "CLOUD COMPUTING BUSINESS SOLUTIONS",
+      "text": "Intelligent IT’s cloud services offer New York City SMBs to enterprises a robust set of computing solutions, while taking into account their unique challenges. Every craft requires the right tools. Carpenters need hammers. Writers need pen and paper. Business professionals need the right technology. Few of the recent advances in business technology stand out in comparison. Companies now have the option to tap into the best tools available from an IT company, even on a limited budget. Those tools can be customized to match your needs exactly. There are so many options out there, the challenge is finding the perfect set of tools for your company. That’s where Intelligent IT shines."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Managed IT Services",
+      "text": "When it comes to managed IT services for your New York City company, chances are you already wear multiple hats. That’s generally how it is for business leaders. First, there is your official list of responsibilities, and then, everything else. How about making that list a little shorter? An IT support provider like Intelligent can take care of the day-to-day maintenance of your organization. Including, but not limited to, systems monitoring, updates, cloud, security, data backup, on call break-fix, and a whole lot more."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "CONTRACT STAFFING & DIRECT HIRE RECRUITMENT SERVICES",
+      "text": "Whether you are looking to augment your current staff with temporary/contract personnel, or you are in need of recruiting experts to help you attract qualified talent, the team at I.T. Staffing can work with you to source the right candidate for your needs.We place a wide range of IT experts including Software Developers, Network / Infrastructure Engineers, Database Administrators, IT Security experts, Business Analysts, Technical Writers and Executives / mid-level managers.Additionally we recruit Accounting/Finance, Supply Chain / Procurement , Administrative/ Clerical and Management professionals.We handle the sourcing, screening, paperwork, initial interviews and background screening services and present you with only well qualified candidates.We work on a contingency basis (“No Win, No Fee!”), no fee is due to us until we find you the right candidate."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Temporary / Contract",
+      "text": " Contract personnel give you the flexibility to better manage your workflow. Often a specialized skillset is needed during the start of a project, periods of increased demand, special projects, system enhancements and upgrades or to fill a temporary vacancy. I.T. Staffing provides temporary staffing solutions to meet your specific needs without long terms commitments."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Contract-to-Hire",
+      "text": " A proven method that allows you to evaluate and review a candidate’s performance before making an offer of employment. Contract-to hire arrangements gives you the opportunity to ensure a mutual fit in your working environment. A high percentage of such placements result in long term employment relationships. "
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Direct Hire",
+      "text": " We work closely with your Human Resources department or representative to initiate a search specific to your needs. We source, qualify and interview potential candidates for your unique requirements to ensure an ideal fit. Only a select few that meet your qualifications are presented to you for review."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Payrolling / Onboarding",
+      "text": "Companies sometimes engage pre-identified workers such as retirees, referrals, or former employees to supplement their workforce on a temporary basis. These resources who are known or referred to you are best managed through a payrolling service provider, We manage the payroll, onboarding, insurance and administration of such candidates . We are their employer of record and we maintain the necessary insurance to meet your criteria. Additionally, we can administer drug tests, and background checks as required."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "MSP /VMS Partnership",
+      "text": " With the popularity of Managed Service Providers (MSP) and Vendor Management Systems (VMS) we have worked to place ourselves at the forefront of this approach to staffing. We work closely with most major MSP’s to formulate strong relationships, built on trust and performance, which in turn benefits our clients."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "12160 W Parmer Ln, Suite # 130, Cedar Park, Texas 78613 ",
+    "phone": "+1 951 459 0693",
+    "email": " hr@anishkatechnologies.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}
