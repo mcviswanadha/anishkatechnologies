@@ -149,6 +149,13 @@ hr {
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
+.product-sales {
+  text-align: start;
+  .products {
+    margin-left: 1em;
+  }
+}
+
 .section-title h2::after {
   position: absolute;
   content: "";
